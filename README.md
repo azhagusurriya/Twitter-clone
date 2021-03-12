@@ -1,4 +1,4 @@
-# Single page Twitter-clone web application
+# Single page Twitter-clone React application
 
 Created using React.js,CSS,MaterialUI,Firebase
 
